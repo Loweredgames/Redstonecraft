@@ -1,0 +1,4 @@
+scoreboard objectives add kick dummy
+function redstonecraft:simulation/simulation_1
+function redstonecraft:simulation/simulation_2
+function redstonecraft:simulation/simulation_fast

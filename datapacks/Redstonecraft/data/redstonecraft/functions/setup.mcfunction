@@ -1,3 +1,10 @@
+#Copyright (C) Loweredgames (Lorenzo Giannini) 
+#Contacted:<https://github.com/Loweredgames>
+#This Source Code Form is subject to the terms of the License.
+#NOT OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG STUDIO.
+#READING THE COPYRIGHT (C): <https://www.minecraft.net/en-us/terms>
+
+
 recipe take @a *
 effect give @a minecraft:conduit_power 11 250 true
 effect give @a minecraft:resistance 11 250 true
@@ -14,3 +21,4 @@ scoreboard objectives add jump minecraft.custom:minecraft.leave_game
 execute at @a[scores={jump=1..}] run function redstonecraft:jump
 function redstonecraft:redstone
 function redstonecraft:simulation/simulation_setup
+aggiungere versione

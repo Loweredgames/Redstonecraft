@@ -14,11 +14,11 @@ bossbar set building name {"text":"JE-1.17.1-Redstonecraft:BUILDING:28.03.2022a"
 
 #Map Progress
 
-bossbar set minecraft:building value 12
+bossbar set minecraft:building value 10
 
 #Warning Message
 
-#title @a actionbar {"text":"\u26a0Work in Progress\u26a0","bold":true,"color":"dark_red"}
+title @a actionbar {"text":"\u26a0Work in Progress\u26a0","bold":true,"color":"dark_red"}
 
 #Bossbar Visible
 
